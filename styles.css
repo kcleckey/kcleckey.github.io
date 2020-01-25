@@ -1,0 +1,44 @@
+.navbar-brand {
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: 900
+}
+
+.nav-link {
+    font-family: 'Nunito', sans-serif;
+}
+
+.jumbotron {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    background-image: url(gold.jpg);
+    background-position: center;
+    background-size: cover;
+    text-shadow: black 1px 1px 3px;
+    color: white
+}
+
+.display-4 {
+    font-weight: 800;
+}
+
+.tagline {
+    font-style: italic;
+}
+
+.container-footer {
+    background-color: darkgrey;
+    }
+
+.logo {
+    font-size: xx-large;
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: 900
+}
+
+.subtext {
+    font-size: xx-small;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
