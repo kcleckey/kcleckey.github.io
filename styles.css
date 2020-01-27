@@ -50,9 +50,15 @@ body {
 }
 
 .form-check-label {
-    font-size: xx-small;
+    font-size: x-small;
 }
 
 .jumbop {
     margin-bottom: 0;
 }
+
+.img-circle {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
